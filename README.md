@@ -6,7 +6,7 @@
 
 **2.** Go to folder: `cd duckduckgo-cli`
 
-**3.** Make *.sh* file executable: chmod 777 duckcli.sh
+**3.** Make *.sh* file executable: `chmod 777 duckcli.sh`
 
 **4.** Execute! `./duckcli.sh`
 
