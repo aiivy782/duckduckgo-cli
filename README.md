@@ -14,7 +14,7 @@
 
 You can make alias to run the script faster! Just follow the instructions:
 
-**1.** Move to home directory: `cd ~`
+**1.** Go to home directory: `cd ~`
 
 **2.** Add this string to .bashrc file: `alias duck="cd duckduckgo-cli | ./duckcli.sh`
 
