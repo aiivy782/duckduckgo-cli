@@ -10,3 +10,6 @@
 
 **4.** Execute! `./duckcli.sh`
 
+### Known problems.
+
+You cannot set a request in Termux and therefore you will simply be moved to the default browser.
