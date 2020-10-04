@@ -1,4 +1,4 @@
-## DuckDuckGo CLI - you make a request, and the search engine gives the first link.
+## DuckDuckGo CLI - you make a request, and the search engine gives the results.
 
 ### Installation.
 
