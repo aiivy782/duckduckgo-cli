@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "Search: " read query
+echo "Search: "
+read LINE
+LINE=$(echo $LINE | sed "s/ /%20/g")
 
-firefox https://duckduckgo.com/html/?q=$query
-chrome https://duckduckgo.com/html/?q=$query
-xdg-open https://duckduckgo.com/html/?q=$query
+xdg-open https://duckduckgo.com/html/?q=$LINE
