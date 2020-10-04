@@ -10,8 +10,18 @@
 
 **4.** Execute! `./duckcli.sh`
 
+### Useful feature.
+
+You can make alias to run the script faster! Just follow the instructions:
+
+**1.** Move to home directory: `cd ~`
+
+**2.** Add this string to .bashrc file: `alias duck="cd duckduckgo-cli | ./duckcli.sh`
+
+**3.** Relaunch your terminal.
+
+Done! Now you can just type `duck` and script will be executed!
+
 ### Known problems.
 
 You cannot set a request in Termux and therefore you will simply be moved to the default browser.
-
-You must enter `%20` instead space.
