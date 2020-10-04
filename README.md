@@ -21,7 +21,3 @@ You can make alias to run the script faster! Just follow the instructions:
 **3.** Relaunch your terminal.
 
 Done! Now you can just type `duck` and script will be executed!
-
-### Known problems.
-
-You cannot set a request in Termux and therefore you will simply be moved to the default browser.
