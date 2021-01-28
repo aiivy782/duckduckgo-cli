@@ -2,7 +2,7 @@
 
 ### Installation.
 
-**1.** Clone this repository: `git clone https://github.com/aiivy782/duckduckgo-cli` or `wget https://github.com/aiivy782/duckduckgo-cli`
+**1.** Clone this repository: `git clone https://github.com/aiivy782/duckduckgo-cli` or `wget https://raw.githubusercontent.com/aiivy782/duckduckgo-cli/main/duckcli.sh`
 
 **2.** Go to folder: `cd duckduckgo-cli`
 
